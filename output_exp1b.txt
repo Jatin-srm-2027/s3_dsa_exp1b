@@ -1,0 +1,15 @@
+a 1 a 1.000000 1
+b 2 b 2.000000 2
+c 3 c 3.000000 3
+d 4 d 4.000000 4
+e 5 e 5.000000 5
+Student6 20 A 5.500000 1
+Student7 21 B 5.600000 1
+Student8 22 C 5.700000 1
+Student9 23 D 5.800000 1
+Student10 24 E 5.900000 1
+Student11 25 F 6.000000 1
+Student12 26 G 6.100000 1
+Student13 27 H 6.200000 1
+Student14 28 I 6.300000 1
+Student15 29 J 6.400000 1
